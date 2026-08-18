@@ -1,0 +1,21 @@
+[
+  { "name": "FREESTYLE 1", "game": "FF THƯỜNG", "type": "SKIN", "file": "brazil.zip", "img": "brazil", "url": "" },
+  { "name": "Nhân vật Ante", "game": "FF THƯỜNG", "type": "SKIN", "file": "ante.zip", "img": "ante", "url": "https://drive.google.com/uc?export=download&id=1Cvenf0UElZBt43zWAuWm_I1CNkPuFH08" },
+  { "name": "Đội Trưởng Mỹ", "game": "FF THƯỜNG", "type": "SKIN", "file": "doi_truong.zip", "img": "doi_truong", "url": "" },
+  { "name": "PETE GRIFFIN", "game": "FF THƯỜNG", "type": "SKIN", "file": "pete_griffin.zip", "img": "pete_griffin", "url": "" },
+  { "name": "SANJI ONE PIECE", "game": "FF THƯỜNG", "type": "SKIN", "file": "sanji.zip", "img": "sanji", "url": "" },
+  { "name": "ThomasShelby", "game": "FF THƯỜNG", "type": "SKIN", "file": "ThomasShelby.zip", "img": "trai", "url": "" },
+  { "name": "Goku Trắng", "game": "FF THƯỜNG", "type": "SKIN", "file": "goku.zip", "img": "goku", "url": "" },
+  { "name": "M1887 Vũ Trụ", "game": "FF THƯỜNG", "type": "SÚNG", "file": "vutruth.zip", "img": "vutru", "url": "" },
+  { "name": "M1887 Thánh Phồng", "game": "FF THƯỜNG", "type": "SÚNG", "file": "thanhphong.zip", "img": "thanhphong", "url": "" },
+  { "name": "Định Vị súng màu đỏ", "game": "FF THƯỜNG", "type": "KHÁC", "file": "doth.zip", "img": "dinhvido", "url": "https://drive.google.com/uc?export=download&id=1hNtH1xRRFGue0qeZMr8l01UrtgP__UoT" },
+  { "name": "Huấn Luyện V1", "game": "FF THƯỜNG", "type": "KHÁC", "file": "huanluyenv1.zip", "img": "huanluyenv1", "url": "https://drive.google.com/uc?export=download&id=1x8s_ZCSDV14WWF_yfM7jT_JYj6QozTSx" },
+  { "name": "Alok FF MAX", "game": "FF MAX", "type": "SKIN", "file": "phapmax.zip", "img": "phapmax", "url": "" },
+  { "name": "Thỏ tím MAX", "game": "FF MAX", "type": "SKIN", "file": "thotimmax.zip", "img": "thotim", "url": "" },
+  { "name": "Skin đạo sĩ đỏ MAX", "game": "FF MAX", "type": "SKIN", "file": "daosimax.zip", "img": "daosi", "url": "" },
+  { "name": "Hoạt ảnh Mộng Cảnh", "game": "FF MAX", "type": "SÚNG", "file": "hoatanh1.zip", "img": "hoatanh1", "url": "" },
+  { "name": "M590 Digimon", "game": "FF MAX", "type": "SÚNG", "file": "digimon.zip", "img": "digimon", "url": "" },
+  { "name": "Định vị súng màu đỏ MAX", "game": "FF MAX", "type": "KHÁC", "file": "domax.zip", "img": "dinhvido", "url": "https://drive.google.com/uc?export=download&id=1H0jYg0mvlwCJtX_G_8KXFXgq-VdQ1BFp" },
+  { "name": "Định Vị 150k", "game": "FF MAX", "type": "KHÁC", "file": "90.zip", "img": "dvi", "url": "https://drive.google.com/uc?export=download&id=114s4PR7IRVaLltJvGE8iWr_vLhV8yL1o" },
+  { "name": "ANTENA+ĐI XUYÊN KEO", "game": "FF MAX", "type": "KHÁC", "file": "ante.zip", "img": "ante", "url": "https://drive.google.com/uc?export=download&id=1Cvenf0UElZBt43zWAuWm_I1CNkPuFH08" }
+]
