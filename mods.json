@@ -70,9 +70,9 @@
   { "name": "Nhân vật Maro V5", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "marovvvvvv", "url": "https://www.mediafire.com/file/1kc8nb4drsox3qv/marov6max.zip/file" },
   { "name": "Nhân vật Nairi V1", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "nariv", "url": "https://www.mediafire.com/file/0usck3u0q9wq2wk/nariv1max.zip" },
   { "name": "Nhân vật Nairi V2", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "narivv", "url": "https://www.mediafire.com/file/r2uesxjpb4siu8b/nariv2max.zip" },
-  { "name": "SANTINO V1", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "sativ", "url": "https://www.mediafire.com/file/6tnslrxs9asn24y/sativ1max.zip" },
-  { "name": "SANTINO V2", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "sativv", "url": "https://www.mediafire.com/file/uwq3qbrsx18dqvq/sativ2max.zip" },
-  { "name": "SANTINO V3", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "sativvv", "url": "https://www.mediafire.com/file/8k2xy4pvawf1pox/sativ3max.zip" },
+  { "name": "SANTINO V1", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "sativ", "url": "https://www.mediafire.com/file/6tnslrxs9asn24y/sativ1max.zip" },
+  { "name": "SANTINO V2", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "sativv", "url": "https://www.mediafire.com/file/uwq3qbrsx18dqvq/sativ2max.zip" },
+  { "name": "SANTINO V3", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "sativvv", "url": "https://www.mediafire.com/file/8k2xy4pvawf1pox/sativ3max.zip" },
 
   { "name": "M1887 Vũ trụ ", "game": "FF MAX", "type": "SÚNG", "file": "vutrumax.zip", "img": "vutru", "url": "https://www.mediafire.com/file/o3iz1whthwnxb3n/m1887max.zip" },
   { "name": "Awn gấu gắt gỏng ", "game": "FF MAX", "type": "SÚNG", "file": "awnmax.zip", "img": "awn1", "url": "https://www.mediafire.com/file/rsk593obqg8zrya/awnmax.zip/file" },
