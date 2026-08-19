@@ -1,4 +1,6 @@
-[
+{
+  "notice": "Chào mừng bạn đến với aThuan Mod!",
+  "mods": [
   { "name": "FREESTYLE 1", "game": "FF THƯỜNG", "type": "SKIN", "file": "brazil.zip", "img": "brazil", "url": "https://www.mediafire.com/file/2ww0gj3ucpztuvk/com.dts.freefireth.zip/file" },
   { "name": "PETE GRIFFIN", "game": "FF THƯỜNG", "type": "SKIN", "file": "pete_griffin.zip", "img": "pete_griffin", "url": "https://www.mediafire.com/file/v172ljmq41kzwpf%20/MOD+SKIN+TEXTURE+7D+CHARACTER+PETE+GRIFFIN%20+FAMILY+GUY+FOR+FREEFIRE+TH+ANDROID.zip/file%20?dkey=hg0u73xnlwt&r=705" },
   { "name": "SANJI ONE PIECE", "game": "FF THƯỜNG", "type": "SKIN", "file": "sanji.zip", "img": "sanji", "url": "https://www.mediafire.com/file/2ww0gj3ucpztuvk/com.dts.freefireth.zip/file" },
@@ -70,4 +72,4 @@
   { "name": "aim 200k mập hài hước MAX", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aim", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
   { "name": "nhẹ tâm 100k M", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
   { "name": "ANTENA+ĐI XUYÊN KEO", "game": "FF MAX", "type": "KHÁC", "file": "ante.zip", "img": "ante", "url": "https://www.mediafire.com/file/phzyke7f3rjeh5n/%25C4%2590%25E1%25BB%258Bnh_V%25E1%25BB%258B_HOLO_BLUE_%252B_ANTENA_90K.zip/file" }
-]
+]}
