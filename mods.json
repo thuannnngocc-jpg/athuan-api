@@ -1,5 +1,6 @@
 {
   "notice": "Chào mừng bạn đến với aThuan Mod!",
+  "update_url":"",
   "version": 1,
   "mods": [
   { "name": "ZORO", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "zoro", "url": "https://www.mediafire.com/file/o61uu5qu48ed9k0/zoro.zip/file" },
