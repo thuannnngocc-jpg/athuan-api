@@ -1,7 +1,7 @@
 {
-  "notice": "Chào mừng bạn đến với aThuan Mod!",
-  "update_url":"",
-  "version": 1,
+  "notice": "🔥 ĐÃ CÓ BẢN V1.1 CỰC GẮT, ANH EM CẬP NHẬT NGAY! 🔥",
+  "version": 2, 
+  "update_url": "https://beacons.ai/thuannngocc",
   "mods": [
   { "name": "ZORO", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "zoro", "url": "https://www.mediafire.com/file/o61uu5qu48ed9k0/zoro.zip/file" },
   { "name": "PETE GRIFFIN", "game": "FF THƯỜNG", "type": "SKIN", "file": "pete_griffin.zip", "img": "pete_griffin", "url": "https://www.mediafire.com/file/v172ljmq41kzwpf%20/MOD+SKIN+TEXTURE+7D+CHARACTER+PETE+GRIFFIN%20+FAMILY+GUY+FOR+FREEFIRE+TH+ANDROID.zip/file%20?dkey=hg0u73xnlwt&r=705" },
