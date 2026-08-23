@@ -1,4 +1,4 @@
-
+{
   "notice": "",
   "version": 2, 
   "update_url": "https://beacons.ai/thuannngocc",
@@ -106,3 +106,4 @@
   { "name": "aim 200k mập hài hước ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aim", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
   { "name": "nhẹ tâm 100k ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" }
 ]
+}
