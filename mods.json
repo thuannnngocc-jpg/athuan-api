@@ -132,7 +132,9 @@
   { "name": "Fix lag đảo thiên đường", "game": "FF THƯỜNG", "type": "KHÁC", "file": "thienduong.zip", "img": "thienduong", "url": "https://drive.google.com/uc?export=download&id=1I9m7Wm-172nFgvt8z5G4oAm76Hf_sqyd" },
   { "name": "xuyên tường độc lang", "game": "FF THƯỜNG", "type": "KHÁC", "file": "xuyentuong.zip", "img": "xuyentuong", "url": "https://www.mediafire.com/file/0270hfvo20jn2sf/%C4%91i_xuy%C3%AAn_t%C6%B0%E1%BB%9Dng_%C4%91%E1%BB%99c_lang.zip" },
   { "name": "Định vị súng", "game": "FF THƯỜNG", "type": "KHÁC", "file": "dinhvi.zip", "img": "dinhvi", "url": "https://www.mediafire.com/file/leeici5no6zaswr/FFTH_Data_%25C4%2590i%25CC%25A3nh_Vi%25CC%25A3_Su%25CC%2581ng_2_Lo%25CC%259B%25CC%2581p_Xanh_Va%25CC%2580ng_Bom_Keo_Mo%25CC%259B%25CC%2580.zip/file" },
-  
+
+  { "name": " HOLOGRAM XANH ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "hologramxanh", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" }, 
+  { "name": "HOLOGRAM WHITE 70K ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "hologramtrang", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
   { "name": "Định vị súng màu đỏ ", "game": "FF MAX", "type": "KHÁC", "file": "domax.zip", "img": "dinhvido", "url": "https://www.mediafire.com/file/yks9bp5c3hwqpks/FFMAX+Data+%C4%90%E1%BB%8Bnh+V%E1%BB%8B+2+L%E1%BB%9Bp+%C4%90%E1%BB%8F+Tr%E1%BA%AFng+Bom+Keo+M%E1%BB%9F.zip/file" },
   { "name": "Định Vị màu xanh 50k ", "game": "FF MAX", "type": "KHÁC", "file": "xanhmax.zip", "img": "xanh", "url": "https://www.mediafire.com/file/9k53wd3qcv4nbie/FFMAX+OB54+Data+%C4%90%E1%BB%8Bnh+V%E1%BB%8B+S%C3%BAng+Xanh+L%C3%A1+Bom+Keo+M%E1%BB%9D.zip/file" },
   { "name": "KEO MINI PRIME ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "mini", "url": "https://www.mediafire.com/file/584mwhwnbxc0pzv/keminimax.zip" },
