@@ -139,6 +139,7 @@
   { "name": "Định Vị màu xanh 50k ", "game": "FF MAX", "type": "KHÁC", "file": "xanhmax.zip", "img": "xanh", "url": "https://www.mediafire.com/file/9k53wd3qcv4nbie/FFMAX+OB54+Data+%C4%90%E1%BB%8Bnh+V%E1%BB%8B+S%C3%BAng+Xanh+L%C3%A1+Bom+Keo+M%E1%BB%9D.zip/file" },
   { "name": "KEO MINI PRIME ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "mini", "url": "https://www.mediafire.com/file/584mwhwnbxc0pzv/keminimax.zip" },
   { "name": "aim 200k mập hài hước ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aim", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
-  { "name": "nhẹ tâm 100k ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" }
+  { "name": "nhẹ tâm 100k ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
 
+  { "name": "Dimitri V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "dvi", "url": "https://www.mediafire.com/file/j3qq75c1l23mc0v/Dimitri_clone_v1.zip" }
 ]}
