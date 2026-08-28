@@ -1,13 +1,13 @@
 {
   "notice": "",
-  "version": 3, 
+  "version": 3,
   "update_url": "https://youtu.be/cknsiMmYSlc?si=wcXStjeampOwAOr-",
   "mods": [
     { "name": "BAKI HANMA", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "baki", "url": "https://www.mediafire.com/file/3k527ij5szhtk7a/skin_baki.zip" },
     { "name": "ZORO", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "zoro", "url": "https://www.mediafire.com/file/o61uu5qu48ed9k0/zoro.zip/file" },
     { "name": "CAO BỒI", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "caoboi", "url": "https://www.mediafire.com/file/b49kgmhrpo0mz72/woody.zip/file" },
     { "name": "GOKU THƯỜNG", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "gokucam", "url": "https://www.mediafire.com/file/5wcmtiptigqttp1/gokuth.zip" },
-    { "name": "PETE GRIFFIN", "game": "FF THƯỜNG", "type": "SKIN", "file": "pete_griffin.zip", "img": "pete_griffin", "url": "https://www.mediafire.com/file/v172ljmq41kzwpf%20/MOD+SKIN+TEXTURE+7D+CHARACTER+PETE+GRIFFIN%20+FAMILY+GUY+FOR+FREEFIRE+TH+ANDROID.zip/file%20?dkey=hg0u73xnlwt&r=705" },
+    { "name": "PETE GRIFFIN", "game": "FF THƯỜNG", "type": "SKIN", "file": "pete_griffin.zip", "img": "pete_griffin", "url": "https://www.mediafire.com/file/v172ljmq41kzwpf/MOD+SKIN+TEXTURE+7D+CHARACTER+PETE+GRIFFIN+FAMILY+GUY+FOR+FREEFIRE+TH+ANDROID.zip/file?dkey=hg0u73xnlwt&r=705" },
     { "name": "Thanos", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "tha", "url": "https://www.mediafire.com/file/7r5ej0ck7idy8df/Thanos" },
     { "name": "Dimitri V1", "game": "FF THƯỜNG", "type": "SKIN", "file": "thotimthuong.zip", "img": "div", "url": "https://www.mediafire.com/file/gtscd6cmclmmchf/thotimthuong.zip/file" },
     { "name": "Dimitri V2 ", "game": "FF THƯỜNG", "type": "SKIN", "file": "thotimthuong.zip", "img": "divvv", "url": "https://www.mediafire.com/file/4m36sw96x7mvezd/dimitrivvvth.zip/file" },
@@ -47,7 +47,7 @@
     { "name": "KAIROS V3", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "kaivvv", "url": "https://www.mediafire.com/file/ffbxva89jhuyyfj/kaivvvth.zip" },
     { "name": "Nhân vật D-bee", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "dbee", "url": "https://www.mediafire.com/file/ioysqwab8jewgni/dbeevth.zip" },
     { "name": "Nhân vật Wolf", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "wol", "url": "https://www.mediafire.com/file/srwunfcoctrjub4/wolvth.zip/file" },
-    {"name": "Nhân vật ORION", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "ori", "url": "https://www.mediafire.com/file/gg2hqdjyml2scft/orionvth.zip" },
+    { "name": "Nhân vật ORION", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "ori", "url": "https://www.mediafire.com/file/gg2hqdjyml2scft/orionvth.zip" },
 
     { "name": "Phong xà", "game": "FF THƯỜNG", "type": "SÚNG", "file": "vutruth.zip", "img": "vutru", "url": "https://www.mediafire.com/file/2iadgurrqejlb7m/m1887th.zip" },
     { "name": "P90 quỷ lửa", "game": "FF THƯỜNG", "type": "SÚNG", "file": "vutruth.zip", "img": "p90quylua", "url": "https://www.mediafire.com/file/c33fzpk2czvwalc/p90th.zip" },
@@ -102,7 +102,7 @@
     { "name": "Nhân vật dbee", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "dbee", "url": "https://www.mediafire.com/file/l3drghn6hsu43g9/dbeevmax.zip" },
     { "name": "Nhân vật Wolf", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "wol", "url": "https://www.mediafire.com/file/6jkwdsis8h5r1dh/wolvmax.zip/file" },
     { "name": "Nhân vật ORION", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "ori", "url": "https://www.mediafire.com/file/fidvndkgnwx3hx4/orionvmax.zip" },
-    
+
     { "name": "Phong xà ", "game": "FF MAX", "type": "SÚNG", "file": "vutrumax.zip", "img": "vutru", "url": "https://www.mediafire.com/file/o3iz1whthwnxb3n/m1887max.zip" },
     { "name": "P90 quỷ lửa", "game": "FF MAX", "type": "SÚNG", "file": "vutruth.zip", "img": "p90quylua", "url": "https://www.mediafire.com/file/38fzpb0jy94d3ph/p90.zip/file" },
     { "name": "VSS chiến mã", "game": "FF MAX", "type": "SÚNG", "file": "vutruth.zip", "img": "vss", "url": "https://www.mediafire.com/file/qt7vl7opv125w67/MOD_VSS_EM_XINH_TH%C6%A0_NG%C3%82Y_FF_MAX_OB54.zip/file" },
@@ -138,15 +138,15 @@
     { "name": "aim 200k mập hài hước ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aim", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
     { "name": "nhẹ tâm 100k ", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
 
-    { "name": "Dimitri V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "div", "url": "https://www.mediafire.com/file/j3qq75c1l23mc0v/Dimitri_clone_v1.zip" },
-    { "name": "Dimitri V2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "divvv", "url": "https://www.mediafire.com/file/7d90jtyjhyj4meh/Dimitri_clone_v2_.zip" },
-    { "name": "Dimitri V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "divv", "url": "https://www.mediafire.com/file/5rjs503jblqz6k5/Dimitri_clone_v3.zip" },
-    { "name": "ShiRou V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "shiv", "url": "https://www.mediafire.com/file/0vq0lypw9uxei03/shirou_v1_clone.zip" },
-    { "name": "ShiRou v2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "shivv", "url": "https://www.mediafire.com/file/oa0yeeve0ovlv1b/shirou_v2_clone.zip" },
-    { "name": "ShiRou V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "shivvv", "url": "https://www.mediafire.com/file/u6tn0aczcr6nstr/shirou_v3_clone.zip/file" },
-    { "name": "Kairos Inosuke ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "ino", "url": "https://www.mediafire.com/file/uxa3e05axm68l6v/inosuke_clone.zip/file" },
-    { "name": "Kairos V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "kaiv", "url": "https://www.mediafire.com/file/528eipzbumbjnjw/kai_v1_clone.zip" },
-    { "name": "Kairos V2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "kaivv", "url": "https://www.mediafire.com/file/kpl8hacq1gxi8cm/kai_v2_clone.zip" },
-    { "name": "Kairos V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "aimax.zip", "img": "kaivvv", "url": "https://www.mediafire.com/file/02x28jvv9ty4fwy/kai_v3_clone.zip" }
+    { "name": "Dimitri V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "dimitri_v1.zip", "img": "div", "url": "https://www.mediafire.com/file/j3qq75c1l23mc0v/Dimitri_clone_v1.zip" },
+    { "name": "Dimitri V2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "dimitri_v2.zip", "img": "divvv", "url": "https://www.mediafire.com/file/7d90jtyjhyj4meh/Dimitri_clone_v2_.zip" },
+    { "name": "Dimitri V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "dimitri_v3.zip", "img": "divv", "url": "https://www.mediafire.com/file/5rjs503jblqz6k5/Dimitri_clone_v3.zip" },
+    { "name": "ShiRou V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "shirou_v1.zip", "img": "shiv", "url": "https://www.mediafire.com/file/0vq0lypw9uxei03/shirou_v1_clone.zip" },
+    { "name": "ShiRou v2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "shirou_v2.zip", "img": "shivv", "url": "https://www.mediafire.com/file/oa0yeeve0ovlv1b/shirou_v2_clone.zip" },
+    { "name": "ShiRou V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "shirou_v3.zip", "img": "shivvv", "url": "https://www.mediafire.com/file/u6tn0aczcr6nstr/shirou_v3_clone.zip/file" },
+    { "name": "Kairos Inosuke ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "kairos_ino.zip", "img": "ino", "url": "https://www.mediafire.com/file/uxa3e05axm68l6v/inosuke_clone.zip/file" },
+    { "name": "Kairos V1 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "kairos_v1.zip", "img": "kaiv", "url": "https://www.mediafire.com/file/528eipzbumbjnjw/kai_v1_clone.zip" },
+    { "name": "Kairos V2 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "kairos_v2.zip", "img": "kaivv", "url": "https://www.mediafire.com/file/kpl8hacq1gxi8cm/kai_v2_clone.zip" },
+    { "name": "Kairos V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaivvv", "url": "https://www.mediafire.com/file/02x28jvv9ty4fwy/kai_v3_clone.zip" }
   ]
 }
