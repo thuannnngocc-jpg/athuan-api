@@ -150,6 +150,13 @@
     { "name": "Kairos V3 ", "game": "FF THƯỜNG", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaivvv", "url": "https://www.mediafire.com/file/02x28jvv9ty4fwy/kai_v3_clone.zip" },
 
     { "name": "Kairos V1 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaiv", "url": "https://www.mediafire.com/file/uzoyrxzrzvu94pm/kairos_v1_max.zip" },
-    { "name": "Kairos V2 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaivv", "url": "https://www.mediafire.com/file/p3pn06u3i5rm3wl/kairos_v2_max.zip/file" }
+    { "name": "Kairos V2 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaivv", "url": "https://www.mediafire.com/file/p3pn06u3i5rm3wl/kairos_v2_max.zip/file" },
+    { "name": "Kairos V3 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "kaivvv", "url": "https://www.mediafire.com/file/rhooaswj770xraw/kairos_v3_max.zip" },
+    { "name": "Dimitri V1 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "div", "url": "https://www.mediafire.com/file/mg5mfqy3hyo2c2k/dimitri_v1_max.zip" },
+    { "name": "Dimitri V2 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "divvv", "url": "https://www.mediafire.com/file/4um9b9o033orwq4/Dimitri_v2_max.zip" },
+    { "name": "Dimitri V3 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "divv", "url": "https://www.mediafire.com/file/23375mfrip0ijwu/dimitri_v3_max.zip" },
+    { "name": "Shidou V1 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "shiv", "url": "https://www.mediafire.com/file/pj33mpd3ppaqqeq/shidou_max_v1.zip/file" },
+    { "name": "Shidou V2 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "shivv", "url": "https://www.mediafire.com/file/ryea2ix4mf9p5u5/shidou_v2_max.zip" },
+    { "name": "Shidou V3 ", "game": "FF MAX", "type": "MULTI CLONE", "file": "kairos_v3.zip", "img": "shivvv", "url": "https://www.mediafire.com/file/urwwmya0zfdxeg2/shidou_v3_max.zip" }
   ]
 }
