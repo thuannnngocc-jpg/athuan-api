@@ -142,7 +142,6 @@
     { "name": "AWN-độc quyền s32", "game": "FF MAX", "type": "SÚNG", "file": "digimonth.zip", "img": "hoabang", "url": "https://www.mediafire.com/file/01xur4z6n79afub/hoabangmax.zip" },
     { "name": "ComBo 8 Súng Phong xà", "game": "FF MAX", "type": "SÚNG", "file": "combomax.zip", "img": "combo8", "url": "https://www.mediafire.com/file/4rf8fl8wnmt5wrw/combomax.zip" },
 
-    { "name": "nhẹ tâm VIP V2", "game": "FF THƯỜNG", "type": "KHÁC", "file": "aimth.zip", "img": "aia", "url": "https://www.mediafire.com/file/2ww0gj3ucpztuvk/com.dts.freefireth.zip/file" },
     { "name": "AIM ĐẦU+ĐVI VIP", "game": "FF THƯỜNG", "type": "KHÁC", "file": "keomini.zip", "img": "aim", "url": "https://www.mediafire.com/file/u4yt204kayzsod8/com.dts.freefireth.zip/file" },
     { "name": "AIMBODY ", "game": "FF THƯỜNG", "type": "KHÁC", "file": "keomini.zip", "img": "aimdrag", "url": "https://www.mediafire.com/file/pwzt6guk1z1grhj/proxy_v2.zip/file" },
     { "name": "AIMDRAG+ANTENA BẮN FULL ĐỎ 1 số máy mới dùng được ", "game": "FF THƯỜNG", "type": "KHÁC", "file": "keomini.zip", "img": "aimdrag", "url": "https://www.mediafire.com/file/f6ua2nje89fa3km/AimDrag%252BANTENA.zip/file" },
@@ -164,8 +163,7 @@
     { "name": "Fix lag đảo thiên đường", "game": "FF THƯỜNG", "type": "KHÁC", "file": "thienduong.zip", "img": "thienduong", "url": "https://drive.google.com/uc?export=download&id=1I9m7Wm-172nFgvt8z5G4oAm76Hf_sqyd" },
     { "name": "xuyên tường độc lang", "game": "FF THƯỜNG", "type": "KHÁC", "file": "xuyentuong.zip", "img": "xuyentuong", "url": "https://www.mediafire.com/file/0270hfvo20jn2sf/%C4%91i_xuy%C3%AAn_t%C6%B0%E1%BB%9Dng_%C4%91%E1%BB%99c_lang.zip" },
     { "name": "Định vị súng", "game": "FF THƯỜNG", "type": "KHÁC", "file": "dinhvi.zip", "img": "dinhvi", "url": "https://www.mediafire.com/file/leeici5no6zaswr/FFTH_Data_%25C4%2590i%25CC%25A3nh_Vi%25CC%25A3_Su%25CC%2581ng_2_Lo%25CC%259B%25CC%2581p_Xanh_Va%25CC%2580ng_Bom_Keo_Mo%25CC%259B%25CC%2580.zip/file" },
-
-    { "name": "nhẹ tâm VIP V2", "game": "FF MAX", "type": "KHÁC", "file": "aimax.zip", "img": "aia", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
+    
     { "name": " Định vị Antena ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "antena", "url": "https://www.mediafire.com/file/ra3ggyns8p1fm1v/Antenna_Max.zip" },
     { "name": " Định vị thập cẩm ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "dinhvithapcam", "url": "https://www.mediafire.com/file/91bzdu2b3dmu8ba/%C4%91%E1%BB%8Bnh_v%E1%BB%8B_th%E1%BA%ADp_c%E1%BA%A9m.zip" },
     { "name": " HOLOGRAM XANH ", "game": "FF MAX", "type": "KHÁC", "file": "keomax.zip", "img": "hologramxanh", "url": "https://www.mediafire.com/file/yu50i9pgjlb7p5b/com.dts.freefiremax.zip/file" },
