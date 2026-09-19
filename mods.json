@@ -5,6 +5,8 @@
   "mods": [
     { "name": "Akaza Ray", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/akaza.jpg", "url": "https://www.mediafire.com/file/dhyc8jazp8nhvz4/akaza.zip" },
     { "name": "Bakugo Ignis", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/bakugo.jpg", "url": "https://www.mediafire.com/file/byomveyxita726x/bakugo.zip/file" },
+    { "name": "Amongus", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/amongus.jpg", "url": "https://www.mediafire.com/file/yy8qa9xu2vo1su3/ray_among_us_th.zip/file" },
+    { "name": "ALIEN X", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/alien%20x.jpg", "url": "https://www.mediafire.com/file/pdrw6g9ckeidt0k/alien_X_th.zip/file" },
     { "name": "Tanjiro Ray", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/tanjiro.jpg", "url": "https://www.mediafire.com/file/zvtdn2192xha1jm/tanjiro.zip" },
     { "name": "Nhân vật Ray", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/%C4%91%E1%BA%A1i%20tr%E1%BB%A5%20kh%C3%A1c.jpg", "url": "https://www.mediafire.com/file/g3rgg6muwt2tyii/thanh_g%C6%B0%E1%BB%9Bm_di%E1%BB%87t_qu%E1%BB%B7.zip" },
     { "name": "Nhân vật Ignis", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/%C4%91%E1%BB%99i%20tr%C6%B0%E1%BB%9Fng%20m%E1%BB%B9.jpg", "url": "https://www.mediafire.com/file/ia5jvfzlfxeoosu/%25C4%2591%25E1%25BB%2599i_tr%25C6%25B0%25E1%25BB%259Fng_m%25E1%25BB%25B9.zip/file" },
@@ -79,6 +81,8 @@
     { "name": "Skin Minecraft đẹp", "game": "FF THƯỜNG", "type": "SÚNG", "file": "comboth.zip", "img": "lucbac", "url": "https://www.mediafire.com/file/am7kr57iuagih4f/L%25E1%25BB%25A5c_b%25E1%25BA%25A1c.zip/file" },
     { "name": "Skin Minecraft đẹp", "game": "FF THƯỜNG", "type": "SÚNG", "file": "comboth.zip", "img": "mp40", "url": "http://www.mediafire.com/file/k7ejf60j7k6zx1s/Mp5_-_Mp40_-_M1887_-_M1014.zip" },
 
+    { "name": "Amongus", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/amongus.jpg", "url": "https://www.mediafire.com/file/frg39kz9e29fmpb/ray_among_us_max.zip" },
+    { "name": "ALIEN X", "game": "FF MAX", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/alien%20x.jpg", "url": "https://www.mediafire.com/file/emhsfazphuj022z/alien_X_Max.zip" },
     { "name": "TOji ", "game": "FF MAX", "type": "SKIN", "file": "thotimmax.zip", "img": "toji", "url": "https://www.mediafire.com/file/n9j1on0xqv20i7u/toji_max.zip" },
     { "name": "Ngộ Không ", "game": "FF MAX", "type": "SKIN", "file": "thotimmax.zip", "img": "ngokhong", "url": "https://www.mediafire.com/file/1li0eku3pgwd4kf/ng%E1%BB%99_kh%C3%B4ng_max.zip" },
     { "name": "Dimitri V1 ", "game": "FF MAX", "type": "SKIN", "file": "thotimmax.zip", "img": "div", "url": "https://www.mediafire.com/file/le1dh1ls37xe1tu/thotimmax.zip" },
