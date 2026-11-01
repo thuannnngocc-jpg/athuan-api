@@ -3,7 +3,7 @@
   "version": 1,
   "update_url": "https://fnote.net/notes/KR6sn8",
   "mods": [
-    { "name": "Báo Hồng Dimitri", "game": "FF THƯỜNG", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/dimitribaohong.jpg", "url": "https://www.mediafire.com/file/c1bpr7nzwf9jyfy/Dimitri_bao_hong_th.zip/file" },
+    { "name": "Báo Hồng Dimitri", "game": "FF THƯỜNG", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/dimitribaohong.jpg", "url": "http://www.mediafire.com/file/sntst2hkyaur6ki/com.dts.freefireth.zip" },
     { "name": "Akaza Ray Ray", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/akaza.jpg", "url": "https://www.mediafire.com/file/dhyc8jazp8nhvz4/akaza.zip" },
     { "name": "Bakugo Ignis", "game": "FF THƯỜNG", "type": "SKIN", "file": "thothienth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/bakugo.jpg", "url": "https://www.mediafire.com/file/byomveyxita726x/bakugo.zip/file" },
     { "name": "Amongus", "game": "FF THƯỜNG", "type": "SKIN", "file": "tha.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/amongus.jpg", "url": "https://www.mediafire.com/file/yy8qa9xu2vo1su3/ray_among_us_th.zip/file" },
@@ -156,7 +156,7 @@
     { "name": "Skin Minecraft đẹp", "game": "FF THƯỜNG", "type": "SÚNG", "file": "comboth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/z4.jpg", "url": "https://www.mediafire.com/file/am7kr57iuagih4f/L%25E1%25BB%25A5c_b%25E1%25BA%25A1c.zip/file" },
     { "name": "Skin Minecraft đẹp", "game": "FF THƯỜNG", "type": "SÚNG", "file": "comboth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/wY.jpg", "url": "http://www.mediafire.com/file/k7ejf60j7k6zx1s/Mp5_-_Mp40_-_M1887_-_M1014.zip" },
 
-    { "name": "Báo Hồng Dimitri", "game": "FF MAX", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/dimitribaohong.jpg", "url": "https://www.mediafire.com/file/wgem3nwgzozlp0p/dimitri_bao_hong_max.zip/file" },
+    { "name": "Báo Hồng Dimitri", "game": "FF MAX", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/dimitribaohong.jpg", "url": "http://www.mediafire.com/file/uumcbqe83ic1tkr/com.dts.freefiremax.zip" },
     { "name": "Shirou v1 ", "game": "FF MAX", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/shirou%20v1.jpg", "url": "https://www.mediafire.com/file/31e10dfbe9enyjf/shirou1max.zip/file" },
     { "name": "Shirou v2 ", "game": "FF MAX", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/shirou%20v2.jpg", "url": "https://www.mediafire.com/file/mujidpnkqd1hq3i/shirou2max.zip" },
     { "name": "sonia v1 ", "game": "FF MAX", "type": "SKIN", "file": "dimitrith.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/sonia%20v1.jpg", "url": "https://www.mediafire.com/file/tfgfrm8hgm9sf1c/sonia_max.zip/file" },
