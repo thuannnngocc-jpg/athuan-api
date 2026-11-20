@@ -304,6 +304,8 @@
     { "name": "AWN-độc quyền s32", "game": "FF MAX", "type": "SÚNG", "file": "digimonth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/Kd.jpg", "url": "https://www.mediafire.com/file/01xur4z6n79afub/hoabangmax.zip" },
     { "name": "ComBo 8 Súng Phong xà", "game": "FF MAX", "type": "SÚNG", "file": "combomax.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/4r.jpg", "url": "https://www.mediafire.com/file/4rf8fl8wnmt5wrw/combomax.zip" },
 
+
+   { "name": "ĐỊNH VỊ 7 MÀU", "game": "FF THƯỜNG", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-20-18-47-21-153_com.garena.ffvn.jpg", "url": "https://www.mediafire.com/file/lckljxbeqqu1j0e/dvi_7_m%25C3%25A0u_th.zip/file" },
     { "name": "Menu Mizze X aThuan", "game": "FF THƯỜNG", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-01-21-47-46-365_com.lemon.lvoverseas-edit.jpg", "url": "https://www.mediafire.com/file/i3uvn7b04wysecs/menu_mizze_th.zip/file" },
     
     { "name": "Menu Vip Slient", "game": "FF THƯỜNG", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-10-24-11-58-57-459_com.miui.gallery-edit.jpg", "url": "https://www.mediafire.com/file/laf2ltuixb06w0s/menuvip_th.zip" },
@@ -342,6 +344,7 @@
     { "name": "Định vị súng", "game": "FF THƯỜNG", "type": "KHÁC", "file": "dinhvi.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/gv.jpg", "url": "https://www.mediafire.com/file/leeici5no6zaswr/FFTH_Data_%25C4%2590i%25CC%25A3nh_Vi%25CC%25A3_Su%25CC%2581ng_2_Lo%25CC%259B%25CC%2581p_Xanh_Va%25CC%2580ng_Bom_Keo_Mo%25CC%259B%25CC%2580.zip/file" },
 
     { "name": "Menu Mizze X aThuan", "game": "FF MAX", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-01-21-47-46-365_com.lemon.lvoverseas-edit.jpg", "url": "http://www.mediafire.com/file/4v688a8az51y3jl/menu_mizze_max.zip" },
+   { "name": "ĐỊNH VỊ 7 MÀU", "game": "FF MAX", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-20-18-47-21-153_com.garena.ffvn.jpg", "url": "http://www.mediafire.com/file/twvus7smf8o77xm/dvi_7_m%C3%A0u_ffmax.zip" },
     
     { "name": "Menu Vip Slient", "game": "FF MAX", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-10-24-11-58-57-459_com.miui.gallery-edit.jpg", "url": "https://www.mediafire.com/file/h5p905pp0p8ccif/menuvip_max.zip/file" },
     { "name": "nhẹ tâm Bá Khíiii", "game": "FF MAX", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/main/nhetamkhidu.jpg", "url": "https://www.mediafire.com/file/2ww0gj3ucpztuvk/com.dts.freefireth.zip/file" },
@@ -396,7 +399,7 @@
   { "name": "ALOK v10", "game": "FF VN", "type": "SKIN", "file": "Alok_FFVN_10.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/bot-discord/main/alok10.jpg", "url": "http://www.mediafire.com/file/cop7s4zs5ulkpr3/Alok_FFVN_10.zip" },
 
 
-
+    { "name": "ĐỊNH VỊ 7 MÀU", "game": "FF VN", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-20-18-47-21-153_com.garena.ffvn.jpg", "url": "http://www.mediafire.com/file/vq1olpxd5w6bqci/divi_ffvn.zip" },
     { "name": "Menu Mizze X aThuan", "game": "FF VN", "type": "KHÁC", "file": "aimth.zip", "img": "https://raw.githubusercontent.com/thuannnngocc-jpg/images/refs/heads/main/Screenshot_2026-11-01-21-47-46-365_com.lemon.lvoverseas-edit.jpg", "url": "http://www.mediafire.com/file/39yml4dwfuo4yfd/menu_vn_v1.zip" },
     
 
